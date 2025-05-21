@@ -1,9 +1,5 @@
-# Fish Theme: clearance
+# oh-my-fish theme: one clearance
 
-A minimalist [fish shell](http://fishshell.com/) theme for people who use git
+A minimalist [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) theme based on [clearance](https://github.com/oh-my-fish/theme-clearance) and [one](https://github.com/rdev/omf-theme-one).
 
-![clearance theme](https://raw.github.com/cseelus/clearance-fish/master/clearance-fish_preview.png)
-
-## Like it?
-
-Check out other versions of this theme for OSX Terminal or VIM!
+![preview](preview-one-clearnce.png)
